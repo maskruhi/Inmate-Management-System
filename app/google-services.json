@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166764177788",
+    "firebase_url": "https://jpolice-1edd2.firebaseio.com",
+    "project_id": "jpolice-1edd2",
+    "storage_bucket": "jpolice-1edd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166764177788:android:f882fd5c6f7a4648575cf9",
+        "android_client_info": {
+          "package_name": "com.example.admin.augscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166764177788-ptck3hf81leghaoui634m7db4uebkfe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xXqQ3NvL6n5FkMxtwU6s-XyOttfdmlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166764177788-ptck3hf81leghaoui634m7db4uebkfe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
